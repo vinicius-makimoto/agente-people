@@ -113,7 +113,7 @@ def agendar_entrevista_com_meet(
 
 
 # Etapa 5: Registrar candidato na planilha
-def registar_candidato_planilha(
+def registrar_candidato_planilha(
     id_planilha,
     nome,
     email,

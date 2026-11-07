@@ -10,7 +10,6 @@ __pycache__/
 # Variáveis de ambiente
 .env
 .env.*
-,env
 
 # Credenciais Google
 credentials.json
@@ -18,3 +17,6 @@ token.json
 
 # Logs
 *.log
+
+#VScode
+.vscode
